@@ -1,0 +1,186 @@
+<atlassian-plugin name='JIRA Chinese (Taiwan) Language Pack' key='tac.jira.languages.zh_TW' plugins-version="2">
+  <plugin-info>
+    <description>This plugin contains translations for zh_TW</description>
+    <vendor name="Atlassian Community" url="http://translations.atlassian.com"/>
+    
+    <version>7.3.4.v2r17569-2020-04-02</version>
+    <param name="atlassian-data-center-compatible">true</param>
+  </plugin-info>
+
+  <language name="Chinese (Taiwan)" key="zh_TW" language="zh" country="TW">
+  </language>
+
+  
+<resource name="i18n-0" type="i18n" location="i18n/LookAndFeel"/>
+  
+    <resource name="i18n-1" type="i18n" location="i18n/i18n"/>
+  
+    <resource name="i18n-2" type="i18n" location="jira-onboarding-assets-plugin"/>
+  
+    <resource name="i18n-3" type="i18n" location="com/atlassian/streams/jira/i18n"/>
+  
+    <resource name="i18n-4" type="i18n" location="com/atlassian/upm/i18n"/>
+  
+    <resource name="i18n-5" type="i18n" location="com/atlassian/gadgets/dashboard/internal/i18n"/>
+  
+    <resource name="i18n-6" type="i18n" location="project-templates-plugin"/>
+  
+    <resource name="i18n-7" type="i18n" location="jira-project-config-plugin"/>
+  
+    <resource name="i18n-8" type="i18n" location="i18n/aui"/>
+  
+    <resource name="i18n-9" type="i18n" location="i18n/stp"/>
+  
+    <resource name="i18n-10" type="i18n" location="com/atlassian/applinks/applinks"/>
+  
+    <resource name="i18n-11" type="i18n" location="jira-issue-link-confluence-plugin"/>
+  
+    <resource name="i18n-12" type="i18n" location="com/atlassian/mywork/providers/jira/registration-i18n"/>
+  
+    <resource name="i18n-13" type="i18n" location="com/atlassian/streams/internal/i18n"/>
+  
+    <resource name="i18n-14" type="i18n" location="com/atlassian/jira/plugins/webhooks/i18n"/>
+  
+    <resource name="i18n-15" type="i18n" location="i18n/jira-share-plugin"/>
+  
+    <resource name="i18n-16" type="i18n" location="i18n/manage-applications"/>
+  
+    <resource name="i18n-17" type="i18n" location="base-hipchat-integration-plugin"/>
+  
+    <resource name="i18n-18" type="i18n" location="com/atlassian/jira/plugins/importer/web/action/util/messages"/>
+  
+    <resource name="i18n-19" type="i18n" location="com/atlassian/crowd/embedded/admin/EmbeddedCrowdAdmin"/>
+  
+    <resource name="i18n-20" type="i18n" location="jira-password-policy-plugin"/>
+  
+    <resource name="i18n-21" type="i18n" location="i18n"/>
+  
+    <resource name="i18n-22" type="i18n" location="jira-core-project-templates"/>
+  
+    <resource name="i18n-23" type="i18n" location="com/atlassian/jira/projects/jira-projects-i18n"/>
+  
+    <resource name="i18n-24" type="i18n" location="com/atlassian/jira/plugins/hipchat/i18n"/>
+  
+    <resource name="i18n-25" type="i18n" location="com/atlassian/wfshare/i18n"/>
+  
+    <resource name="i18n-26" type="i18n" location="editor-i18n"/>
+  
+    <resource name="i18n-27" type="i18n" location="com/atlassian/jirawallboard/i18n"/>
+  
+    <resource name="i18n-28" type="i18n" location="com/atlassian/applinks/applinks-edit"/>
+  
+    <resource name="i18n-29" type="i18n" location="i18n/whereismycf"/>
+  
+    <resource name="i18n-30" type="i18n" location="com/atlassian/jira/jira-issue-nav-plugin/i18n"/>
+  
+    <resource name="i18n-31" type="i18n" location="jira-auditing-plugin"/>
+  
+    <resource name="i18n-32" type="i18n" location="com/atlassian/plugins/navlink/navlink-i18n"/>
+  
+    <resource name="i18n-33" type="i18n" location="i18n/atlassian-webhooks-translations"/>
+  
+    <resource name="i18n-34" type="i18n" location="jira/i18n"/>
+  
+    <resource name="i18n-35" type="i18n" location="com/atlassian/gadgets/directory/internal/i18n"/>
+  
+    <resource name="i18n-36" type="i18n" location="i18n/analytics-client"/>
+  
+    <resource name="i18n-37" type="i18n" location="i18n-rest"/>
+  
+    <resource name="i18n-38" type="i18n" location="jira-quick-edit-plugin"/>
+  
+    <resource name="i18n-39" type="i18n" location="com/atlassian/applinks/applinks-rest"/>
+  
+    <resource name="i18n-40" type="i18n" location="jira-healthcheck-plugin"/>
+  
+    <resource name="i18n-41" type="i18n" location="com/atlassian/applinks/applinks-status"/>
+  
+    <resource name="i18n-42" type="i18n" location="jira-view-issue-plugin"/>
+  
+    <resource name="i18n-43" type="i18n" location="com/atlassian/administration/quicksearch/jira/i18n/jira-aliases"/>
+  
+    <resource name="i18n-44" type="i18n" location="com/atlassian/oauth/serviceprovider/internal/i18n"/>
+  
+    <resource name="i18n-45" type="i18n" location="com/atlassian/activeobjects/admin/ActiveObjectsAdmin"/>
+  
+    <resource name="i18n-46" type="i18n" location="com/atlassian/jira/plugins/mail/messages"/>
+  
+    <resource name="i18n-47" type="i18n" location="jira-issue-link-remote-jira-plugin"/>
+  
+    <resource name="i18n-48" type="i18n" location="jira-invite-user-plugin"/>
+  
+    <resource name="i18n-49" type="i18n" location="com/atlassian/streams/jira/inline-actions/i18n"/>
+  
+    <resource name="i18n-50" type="i18n" location="wiki-editor"/>
+  
+    <resource name="i18n-51" type="i18n" location="com/atlassian/mywork/mywork-common"/>
+  
+    <resource name="i18n-52" type="i18n" location="i18n/tzdetect-i18n"/>
+  
+    <resource name="i18n-53" type="i18n" location="atlassian-nps-plugin"/>
+  
+    <resource name="i18n-54" type="i18n" location="support-healthcheck-plugin"/>
+  
+    <resource name="i18n-55" type="i18n" location="jira-issue-link-web-plugin"/>
+  
+    <resource name="i18n-56" type="i18n" location="com/atlassian/applinks/applinks-service"/>
+  
+    <resource name="i18n-57" type="i18n" location="monitor-i18n"/>
+  
+    <resource name="i18n-58" type="i18n" location="com/atlassian/jira/jira-issue-nav-components/i18n"/>
+  
+    <resource name="i18n-59" type="i18n" location="com/atlassian/jira/plugins/importer/github/messages"/>
+  
+    <resource name="i18n-60" type="i18n" location="atlassian-authentication-plugin"/>
+  
+    <resource name="i18n-61" type="i18n" location="com/atlassian/jira/plugins/importer/trello/messages"/>
+  
+    <resource name="i18n-62" type="i18n" location="com/atlassian/jira/gadgets/i18n"/>
+  
+    <resource name="i18n-63" type="i18n" location="common/i18n"/>
+  
+    <resource name="i18n-64" type="i18n" location="jira-inline-issue-create-plugin"/>
+  
+    <resource name="i18n-65" type="i18n" location="com/atlassian/jira/plugins/importer/asana/messages"/>
+  
+    <resource name="i18n-66" type="i18n" location="com/atlassian/streams/inline-actions/i18n"/>
+  
+    <resource name="i18n-67" type="i18n" location="com/atlassian/gadgets/oauth/serviceprovider/internal/i18n"/>
+  
+    <resource name="i18n-68" type="i18n" location="project-creation-i18n"/>
+  
+    <resource name="i18n-69" type="i18n" location="com/atlassian/jira/plugins/importer/bitbucket/web/messages"/>
+  
+    <resource name="i18n-70" type="i18n" location="com/atlassian/administration/quicksearch/i18n/quicksearch"/>
+  
+    <resource name="i18n-71" type="i18n" location="jira-issue-link-applinks-common-plugin"/>
+  
+    <resource name="i18n-72" type="i18n" location="i18n/jira-header-plugin"/>
+  
+    <resource name="i18n-73" type="i18n" location="com/atlassian/mywork/providers/jira/i18n"/>
+  
+    <resource name="i18n-74" type="i18n" location="com/atlassian/jira/plugins/importer/redmine/web/messages"/>
+  
+    <resource name="i18n-75" type="i18n" location="com/atlassian/applinks/internal/common/applinks-service-common"/>
+  
+    <resource name="i18n-76" type="i18n" location="com/atlassian/jira/jira-projects-issue-navigator/i18n"/>
+  
+    <resource name="i18n-77" type="i18n" location="jira-admin-updates-plugin"/>
+  
+    <resource name="i18n-78" type="i18n" location="com/atlassian/feedback/jira-feedback-plugin"/>
+  
+    <resource name="i18n-79" type="i18n" location="com/atlassian/streams/i18n"/>
+  
+    <resource name="i18n-80" type="i18n" location="i18n/jira-my-home-plugin"/>
+  
+    <resource name="i18n-81" type="i18n" location="com/atlassian/plugins/helptips/i18n"/>
+  
+    <resource name="i18n-82" type="i18n" location="com/atlassian/streams/thirdparty/i18n"/>
+  
+    <resource name="i18n-83" type="i18n" location="user-profile-i18n"/>
+  
+    <resource name="i18n-84" type="i18n" location="project-creation"/>
+  
+    <resource name="i18n-85" type="i18n" location="com/atlassian/gadgets/renderer/internal/servlet/i18n"/>
+  
+</atlassian-plugin>
