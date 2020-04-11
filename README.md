@@ -1,0 +1,1 @@
+# jira-language-pack-zh_TW
